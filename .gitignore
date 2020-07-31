@@ -1,0 +1,10 @@
+data/*.*
+trained_models/*.*
+logs/*.*
+old_logs/*.*
+logs/*
+*.iml
+*.xml
+*.ipynb
+*.pyc
+
