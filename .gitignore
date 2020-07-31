@@ -5,6 +5,5 @@ old_logs/*.*
 logs/*
 *.iml
 *.xml
-*.ipynb
 *.pyc
 
