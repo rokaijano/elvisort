@@ -7,3 +7,5 @@ logs/*
 *.xml
 *.pyc
 
+!data/__init__.py
+!trained_models/__init__.py
